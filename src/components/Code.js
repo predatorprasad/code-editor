@@ -1,6 +1,13 @@
+
+import Editor from './Editor';
+
 function Code() {
     return(
-        <h1>hello from code</h1>
+        <>
+            <Editor />
+            <Editor />
+            <Editor />
+        </>
     );
 }
 
