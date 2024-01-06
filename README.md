@@ -12,6 +12,13 @@
 
 - **Responsive Design:** Ensured a seamless user experience across various devices by implementing a responsive design. The use of percentages in styling and the `width` and `height` attributes in the `iframe` element contributes to this responsiveness.
 
+![pic 1](https://github.com/predatorprasad/code-editor/assets/94825413/c6698fa5-184f-42c1-8766-ed397931c383)
+
+
+![pic 2](https://github.com/predatorprasad/code-editor/assets/94825413/4ac61c37-47da-4239-ad68-c02f33162d37)
+
+
+
 ## Tech Stack
 - React
 - Material-UI
